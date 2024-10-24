@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e14a77e6f20d61c48b9008bb81c80e32
+guid: 9987db33efbbf884c92bafd0290b1efe
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tentacle obstacle_0
+      name: exit button_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c9700ab90a5c2149a8c0545ba54ef71
-      internalID: -1793190042
+      spriteID: 9c7f9badab1c469429194ba3412c154b
+      internalID: 442328329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentacle obstacle_1
+      name: exit button_1
       rect:
         serializedVersion: 2
         x: 64
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 719a9f981534cc34ba752d3c48f70ed8
-      internalID: 542492737
+      spriteID: d7c31923e8be56542b85078afbe69b9b
+      internalID: -292312902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentacle obstacle_2
+      name: exit button_2
       rect:
         serializedVersion: 2
         x: 128
@@ -153,50 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6b5b36fb8859f74cb8f75b6991f5a74
-      internalID: 1514931729
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tentacle obstacle_3
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f733caf2ec4ef8f4b96fa5d8d2e7d221
-      internalID: -1871757257
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tentacle obstacle_4
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae85c106ec6cfc646a1ccfdc46eeac93
-      internalID: 988126646
+      spriteID: 23c68849bb57a3c4e8470ba2af97af82
+      internalID: 1860894893
       vertices: []
       indices: 
       edges: []
@@ -212,11 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Tentacle obstacle_0: -1793190042
-      Tentacle obstacle_1: 542492737
-      Tentacle obstacle_2: 1514931729
-      Tentacle obstacle_3: -1871757257
-      Tentacle obstacle_4: 988126646
+      exit button_0: 442328329
+      exit button_1: -292312902
+      exit button_2: 1860894893
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

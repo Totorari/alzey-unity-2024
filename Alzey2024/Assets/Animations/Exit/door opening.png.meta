@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e14a77e6f20d61c48b9008bb81c80e32
+guid: 5fd9e8e1d9cd48547ab61de34b16c610
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tentacle obstacle_0
+      name: door opening_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c9700ab90a5c2149a8c0545ba54ef71
-      internalID: -1793190042
+      spriteID: 47b1366ac6a31584ebd7747e35fd989c
+      internalID: -981541107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentacle obstacle_1
+      name: door opening_1
       rect:
         serializedVersion: 2
         x: 64
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 719a9f981534cc34ba752d3c48f70ed8
-      internalID: 542492737
+      spriteID: b9797b9971ed69c48875faa0278357c9
+      internalID: 488379602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentacle obstacle_2
+      name: door opening_2
       rect:
         serializedVersion: 2
         x: 128
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6b5b36fb8859f74cb8f75b6991f5a74
-      internalID: 1514931729
+      spriteID: e9f93b182d5ea7c4ead088a4fbd12010
+      internalID: -1788916259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentacle obstacle_3
+      name: door opening_3
       rect:
         serializedVersion: 2
         x: 192
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f733caf2ec4ef8f4b96fa5d8d2e7d221
-      internalID: -1871757257
+      spriteID: fb1b83a9180f5044784571922a6a3e48
+      internalID: 375386379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentacle obstacle_4
+      name: door opening_4
       rect:
         serializedVersion: 2
         x: 256
@@ -195,8 +195,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae85c106ec6cfc646a1ccfdc46eeac93
-      internalID: 988126646
+      spriteID: d467e74794f420e4ea5c8560dbe8e0c1
+      internalID: 1469795595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door opening_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c147d0e744d4c458dbd7a0b6d0cb97
+      internalID: 1060707428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door opening_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab16ecceaed144941bd4093442f8d439
+      internalID: 2109048017
       vertices: []
       indices: 
       edges: []
@@ -212,11 +254,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Tentacle obstacle_0: -1793190042
-      Tentacle obstacle_1: 542492737
-      Tentacle obstacle_2: 1514931729
-      Tentacle obstacle_3: -1871757257
-      Tentacle obstacle_4: 988126646
+      door opening_0: -981541107
+      door opening_1: 488379602
+      door opening_2: -1788916259
+      door opening_3: 375386379
+      door opening_4: 1469795595
+      door opening_5: 1060707428
+      door opening_6: 2109048017
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
